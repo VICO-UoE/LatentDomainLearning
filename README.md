@@ -9,7 +9,7 @@ Other configuration settings can be changed in `util/parser.py` or providing mat
 If you find this code useful in your research, please cite our work as:
 
 ```
-@inproceedings{deecke21,
+@inproceedings{deecke22,
     author       = "Deecke, Lucas and Hospedales, Timothy and Bilen, Hakan",
     title        = "Visual Representation Learning over Latent Domains",
     booktitle    = "International Conference on Learning Representations",
